@@ -7,5 +7,4 @@ In this project I use Monte-Carlo-algorithms to make diferent things, such as es
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/MCPi-Python.png)
 
 
-**Equation of the ellipse**
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/Figure_1.png)
