@@ -5,3 +5,7 @@ In this project I use Monte-Carlo-algorithms to make diferent things, such as es
 
 **Around 7,8 milion points plotted with [matplotlib](https://matplotlib.org/index.html)**
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/MCPi-Python.png)
+
+
+**Equation of the ellipse**
+![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/Figure_1.png)
