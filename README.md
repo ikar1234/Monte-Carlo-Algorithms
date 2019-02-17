@@ -9,6 +9,6 @@ In this project I use Monte-Carlo-algorithms to make diferent things, such as es
 
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/Figure_1.png)
 
-** An (almost complete) Batman equations. Source: [Who wrote the Batman equation?](https://www.quora.com/Who-wrote-the-Batman-equation)**
+**An (almost complete) Batman equations. Source: [Who wrote the Batman equation?](https://www.quora.com/Who-wrote-the-Batman-equation)**
 
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/Batman.png)
