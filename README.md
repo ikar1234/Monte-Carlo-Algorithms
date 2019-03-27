@@ -12,3 +12,8 @@ In this project I use Monte-Carlo-algorithms to make diferent things, such as es
 **An (almost complete) Batman equation. Source: [Who wrote the Batman equation?](https://www.quora.com/Who-wrote-the-Batman-equation)**
 
 ![alt text](https://github.com/ikar1234/Monte-Carlo-Pi/blob/master/Monte-Carlo-Pi/Batman.png)
+
+----------------------------------------------------------------------------------------------
+
+**Generating pi from 1000 random numbers**
+[Inspired by Matt Parker](https://www.youtube.com/watch?v=RZBhSi_PwHU)
