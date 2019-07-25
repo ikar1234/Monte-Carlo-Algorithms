@@ -3,8 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def batman(x,y):
-    return (3*np.sqrt(abs(4-(np.abs(x)-2)**2)) +np.abs(x)-20-4*y)*(3*np.sqrt(abs((4-(np.abs(x)-6)**2)))+np.abs(x)-20-4*y)*(x**2 + 4*y**2-100*np.sqrt(abs((np.abs((7-np.abs(2*y-1))) / (7-np.abs(2*y-1))))))*(2*(np.abs(x)-3)**2-9*y + 18*np.sqrt(abs((np.abs((2-np.abs((np.abs(x)-4)))) / (2-np.abs((np.abs(x)-4)))))))*((-68)*np.abs((np.abs(x)-3 / 2))-9*y + 54*np.sqrt(abs((np.abs((43-np.abs((136*np.abs(x)-229)))) / (43-np.abs((136*np.abs(x)-229)))))))*(y-5*np.sqrt(abs((np.abs((1-np.abs(x))) /(1-np.abs(x))))))
-
+    return (np.sqrt(abs(4-(np.abs(x)-5)**1)) +np.abs(x)-26-4*y)*(2*np.sqrt(abs((4-(np.abs(x)-6)**2)))+np.abs(x)-20-4*y)*(x**2 + 4*y**2-100*np.sqrt(abs((np.abs((7-np.abs(2*y-1))) / (7-np.abs(2*y-1))))))*(2*(np.abs(x)-3)**2-9*y + 18*np.sqrt(abs((np.abs((2-np.abs((np.abs(x)-4)))) / (2-np.abs((np.abs(x)-4)))))))*((-98)*np.abs((np.abs(x)-3 / 2))-9*y + 54*np.sqrt(abs((np.abs((43-np.abs((136*np.abs(x)-229)))) / (43-np.abs((136*np.abs(x)-229)))))))*(y-5*np.sqrt(abs((np.abs((1-np.abs(x))) /(1-np.abs(x))))))
 
 def monte_carlo(acc):
 
