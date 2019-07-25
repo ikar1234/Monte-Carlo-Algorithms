@@ -9,4 +9,4 @@ Therefore pi is equal to sqrt(6/x), where x is the proportion of coprimes among 
 I used R to generate pairs of random integers and for calculation
 
 
-Best estimate sofar: 3.141404, generated using only 1000 numbers! 
+Best estimate so far: 3.141404, generated using only 1000 numbers! 
