@@ -1,6 +1,6 @@
-# Monte-Carlo-Simulations
+# Markov chain Monte Carlo(MCMC) simulations
 
-In this project I use Monte-Carlo-algorithms to make diferent things, such as estimating pi or areas of figures
+Here I use MCMC-algorithms to make diferent things, such as estimating pi or areas of figures.
 
 
 **Around 7,8 milion points plotted with [matplotlib](https://matplotlib.org/index.html)**
